@@ -426,3 +426,10 @@
   }
   /* End Footer */
 /* End global rules */
+
+/* this is just for test */
+.hed{
+  color: #10cab7;
+  text-align-last:center ;
+  font-size: large;
+}
